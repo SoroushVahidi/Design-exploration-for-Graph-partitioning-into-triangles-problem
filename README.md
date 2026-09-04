@@ -1,5 +1,7 @@
 # Design Exploration for Graph Partitioning into Triangles
 
+> Historical undergraduate project (2020), retained for reference.
+
 Implementation of **three different solutions** for the **Graph Partition Into Triangles** problem.
 
 ## Reference
